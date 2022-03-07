@@ -506,6 +506,16 @@ header .search-bar-container label{
     text-decoration: underline;
 }
 
+.footer .credit{
+    background: #fff;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+.footer .credit span{
+    color: var(--orange);
+}
 
 
 
